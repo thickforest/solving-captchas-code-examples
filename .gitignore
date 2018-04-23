@@ -11,3 +11,6 @@ extracted_letter_images/*
 # ignore cache
 
 __pycache__
+
+*.hdf5
+*.pyc
